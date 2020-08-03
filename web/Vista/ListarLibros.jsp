@@ -1,8 +1,4 @@
-<%-- 
-    Document   : ListarEstudiante
-    Created on : 03/08/2020, 09:09:20 AM
-    Author     : CR
---%>
+
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE html>
